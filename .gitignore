@@ -1,0 +1,45 @@
+# Dependencies and Modules
+node_modules/
+vendor/
+
+# Environment-specific Files
+.env
+.env.local
+.env.*.local
+
+# Build and Compiled Files
+build/
+dist/
+*.log
+
+# Temporary Files and Cache
+.DS_Store
+Thumbs.db
+.cache/
+
+# User-specific Files
+.vscode/
+.idea/
+*.iml
+
+# Logs and Backups
+*.log
+*.bak
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated Files
+*.generated.*
+*.min.*
+
+# Configuration Files
+config.json
+settings.xml
+
+# Local Development Files
+.npmrc
+.yarnrc
