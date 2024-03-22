@@ -2,11 +2,9 @@
 
 A simple blog application built with Express.js.
 
-
 ## Preview
 
 ![Website Preview](public/preview.png)
-
 
 ## Description
 
@@ -19,9 +17,9 @@ This project is a simple blog application created using Express.js. It allows us
    git clone https://github.com/KRISHNAKUMARPS2002/Simple-Blog-Website.git
 
 
-cd your-project
-npm install
-npm start
+1. cd Simple-Blog-Website
+2. npm install
+3. npm start
 
 ## Usage
 
