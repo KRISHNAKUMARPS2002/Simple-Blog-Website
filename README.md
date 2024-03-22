@@ -10,4 +10,4 @@ This project is a simple blog application created using Express.js. It allows us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/KRISHNAKUMARPS2002/Simple-Blog-Website.git
