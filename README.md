@@ -2,6 +2,12 @@
 
 A simple blog application built with Express.js.
 
+
+## Preview
+
+![Website Preview](public/preview.png)
+
+
 ## Description
 
 This project is a simple blog application created using Express.js. It allows users to create new blog posts and view recent blog posts on the homepage.
